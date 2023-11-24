@@ -1,0 +1,13 @@
+rm ./memfit_output.csv
+./memfit 10
+./memfit 20
+./memfit 30
+./memfit 40
+./memfit 50
+./memfit 70
+./memfit 100
+./memfit 200
+./memfit 300
+./memfit 400
+./memfit 500
+./memfit 700
